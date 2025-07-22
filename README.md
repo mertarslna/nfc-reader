@@ -22,7 +22,7 @@ Android cihazlar için geliştirilmiş, NFC kartlarının UID bilgisini kolayca 
 
 ### Yöntem 2: Hazır APK ile Kurulum
 
-- Ana klasöre yüklenen `nfc-reader.apk` dosyasını Android cihazınıza aktarın.
+- Ana klasöre yüklenen `NFC-Reader.apk` dosyasını Android cihazınıza aktarın.
 - Cihazınızda APK dosyasını açarak uygulamayı yükleyin.
 - (Gerekirse) Ayarlardan "Bilinmeyen kaynaklara izin ver" seçeneğini aktif edin.
 
