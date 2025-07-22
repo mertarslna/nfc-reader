@@ -1,4 +1,4 @@
-# NFC-Reader
+# NFC Reader
 
 Android cihazlar için geliştirilmiş, NFC kartlarının UID bilgisini kolayca okumanızı sağlayan açık kaynaklı bir uygulamadır. Modern Android (Kotlin + Jetpack Compose) teknolojileriyle yazılmıştır.
 
